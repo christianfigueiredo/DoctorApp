@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="API/API.csproj" />
+  <Project Path="Data/Data.csproj" Id="1ab33af3-9d25-4e66-a579-99d84c334971" />
+  <Project Path="Models/Models.csproj" Id="4cf0ac77-9626-4d4a-8f7c-f14629f3f639" />
+</Solution>
